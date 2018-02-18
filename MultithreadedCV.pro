@@ -14,12 +14,10 @@ TEMPLATE = app
 
 SOURCES += main.cpp\
         mainwindow.cpp \
-    processorthread.cpp \
-    pyramidbuild.cpp
+    processorthread.cpp
 
 HEADERS  += mainwindow.h \
-    processorthread.h \
-    pyramidbuild.h
+    processorthread.h
 
 FORMS    += mainwindow.ui
 
